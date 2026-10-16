@@ -31,6 +31,9 @@ public class Main{
         DataTypes.longTest((long)20);
         DataTypes.shortTest((short)2);
 
+        CubicMile.Cubic.run();
+        CubicMile.Hypot.run();
+
 
 
 
