@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MoneyCalc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MoneyCalc_jar</output-path>
+    <root id="archive" name="MoneyCalc.jar">
+      <element id="module-output" name="MoneyCalc" />
+    </root>
+  </artifact>
+</component>

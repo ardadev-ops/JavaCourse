@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gallons to Liter/Gallons to Liter.iml" filepath="$PROJECT_DIR$/Gallons to Liter/Gallons to Liter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gallons to Liter v2/Gallons to Liter v2.iml" filepath="$PROJECT_DIR$/Gallons to Liter v2/Gallons to Liter v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Anfaenger/Java_Anfaenger.iml" filepath="$PROJECT_DIR$/Java_Anfaenger/Java_Anfaenger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_start.iml" filepath="$PROJECT_DIR$/Java_start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoneyCalc/MoneyCalc.iml" filepath="$PROJECT_DIR$/MoneyCalc/MoneyCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/WaehrungsRechner/WaehrungsRechner.iml" filepath="$PROJECT_DIR$/WaehrungsRechner/WaehrungsRechner.iml" />
     </modules>
   </component>
