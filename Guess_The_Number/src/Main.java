@@ -8,8 +8,9 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ThreadLocalRandom;
 public class Main
 {
-    //Der Code mit von bis
+    //Der Code mit von bis für die Random zahlen
     static int myNumber = ThreadLocalRandom.current().nextInt(0, 100 + 1);
+
     static int startGuess = 0;
     static JLabel text = new JLabel("Gebe eine Zahl zwischen 0 und 100 ein");
     static JTextField textfeld = new JTextField();

@@ -11,6 +11,7 @@ public class Main {
 
 
 
+
         System.out.println("Hello World ich heiße " + name + " ich bin ein " + job);
         System.out.println("Ich komme aus " + stadt + " und bin aktuell " + alter + " Jahre alt.");
         showGreeting();
@@ -20,6 +21,8 @@ public class Main {
         showDayTime(14);
 
         showDayTime(20);
+
+        User_Input.scanny();
 
 
 
@@ -41,7 +44,7 @@ public class Main {
         }
     }
 
-    public static void showDayTime(Integer hour){
+    public static void showDayTime(int hour){
 
         if (hour < 12){
             System.out.println("Guten Morgen");
@@ -56,4 +59,7 @@ public class Main {
 
     }
 }
+
+
+
 
